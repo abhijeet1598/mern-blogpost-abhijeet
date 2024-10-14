@@ -8,8 +8,8 @@ import Home from "./pages/index.jsx";
 
 import Layout from "./components/Layout.jsx";
 import BlogEditor from "./components/BlogEditor.jsx";
-import Register from "./pages/register.jsx";
-import Login from "./pages/login.jsx";
+import Register from "./pages/Register.jsx";
+import Login from "./pages/Login.jsx";
 
 const router = createBrowserRouter([
   {
